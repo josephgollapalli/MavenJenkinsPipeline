@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Prime {
 	//Added comment in the remote 
+	//Added comment in the local branch master to LFBranch
 	//Added this comment for local new branch LFBranch
 	public static void main(String[] args) {
 		int num = 10;
