@@ -2,6 +2,7 @@ package testpackage;
 
 import java.util.ArrayList;
 
+//Without pull the code from remote we cannot push new changes to remote.
 public class Prime {
 
 	public static void main(String[] args) {
