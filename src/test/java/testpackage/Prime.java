@@ -3,7 +3,7 @@ package testpackage;
 import java.util.ArrayList;
 
 public class Prime {
-	//Removed all comments for here
+
 	public static void main(String[] args) {
 		int num = 10;
 		ArrayList al = new ArrayList();
