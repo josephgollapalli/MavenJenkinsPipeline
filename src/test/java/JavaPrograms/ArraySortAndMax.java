@@ -7,7 +7,7 @@ public class ArraySortAndMax {
 	public static void main(String[] args) {
 		int[] a = {19,59,3,4,10,33,9};
 		
-		//For loop added at same line Testing from local
+		//For loop added at same line Testing from local //Commit from remote
 		for (int i = 0; i < a.length; i++) {
 			for (int j = i+1; j < a.length; j++) {
 				int temp =0;
