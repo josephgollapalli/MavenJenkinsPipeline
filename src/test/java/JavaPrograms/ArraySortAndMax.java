@@ -6,11 +6,8 @@ public class ArraySortAndMax {
 	//Test message
 	public static void main(String[] args) {
 		int[] a = {19,59,3,4,10,33,9};
-<<<<<<< HEAD
+		
 		//For loop added at same line Testing from local
-=======
-		//For loop added at same line Testing it
->>>>>>> 09047b0fdf6ab4cd6e59589bd82603581d7c5e21
 		for (int i = 0; i < a.length; i++) {
 			for (int j = i+1; j < a.length; j++) {
 				int temp =0;
