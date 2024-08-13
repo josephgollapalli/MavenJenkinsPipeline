@@ -3,7 +3,7 @@ package JavaPrograms;
 import java.util.Iterator;
 
 public class ArraySortAndMax {
-
+	//Test message
 	public static void main(String[] args) {
 		int[] a = {19,59,3,4,10,33,9};
 		//For loop
