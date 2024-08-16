@@ -4,11 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testpackage.TestClass"/>
-<<<<<<< HEAD
-      <class name="testpackage.TestPr"/>
-=======
+      <class name="JavaPrograms.ArraySortAndMax"/>
        <class name="testpackage.TestPr"/>
->>>>>>> 9318e511a89047d5529671c44dd58ed5083ae120
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
